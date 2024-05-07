@@ -1,16 +1,22 @@
-# portfolio_website
 
-A new Flutter project.
 
-## Getting Started
+# Portfolio Website Using Flutter
 
-This project is a starting point for a Flutter application.
+A Responsive Portfolio Website made with flutter so you can manage all your projects no regards which device you have
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Ashupaldeora/portfolio_website/assets/143180848/88b9c118-b407-4ba7-8d2c-c6a0dcdc99f1" vspace=50></img>
+
+### 
+###
+![App Screenshot](https://github.com/Ashupaldeora/portfolio_website/assets/143180848/d21a49db-aa5b-43ab-b68f-48df8c100d1a)
+
+
+
+
+
+https://github.com/Ashupaldeora/portfolio_website/assets/143180848/25dd77da-b732-4c4a-8449-44cc581c51a0
+
+
