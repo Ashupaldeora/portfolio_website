@@ -13,6 +13,10 @@ A Responsive Portfolio Website made with flutter so you can manage all your proj
 ###
 ![App Screenshot](https://github.com/Ashupaldeora/portfolio_website/assets/143180848/d21a49db-aa5b-43ab-b68f-48df8c100d1a)
 
+<video src="https://github.com/Ashupaldeora/portfolio_website/assets/143180848/3b433995-24ba-42e6-9c6c-97aa31bcda1e"></video>
+
+
+
 
 
 
